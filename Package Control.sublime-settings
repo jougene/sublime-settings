@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Git",
+		"HTMLBeautify",
+		"Laravel Blade Highlighter",
+		"Material Theme",
+		"Package Control",
+		"PHP Companion",
+		"Sublime Text 3 Snippets"
+	]
+}
